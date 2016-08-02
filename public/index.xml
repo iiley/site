@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All about iiley</title>
+    <link>http://iiley.com/</link>
+    <description>Recent content on All about iiley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jul 2016 02:33:19 +0800</lastBuildDate>
+    <atom:link href="http://iiley.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>p2</title>
+      <link>http://iiley.com/poem/p2/</link>
+      <pubDate>Sun, 31 Jul 2016 02:33:19 +0800</pubDate>
+      
+      <guid>http://iiley.com/poem/p2/</guid>
+      <description>&lt;p&gt;第二首
+诗歌
+也诞生了。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>p1</title>
+      <link>http://iiley.com/poem/p1/</link>
+      <pubDate>Sun, 31 Jul 2016 02:33:14 +0800</pubDate>
+      
+      <guid>http://iiley.com/poem/p1/</guid>
+      <description>&lt;p&gt;第一首
+诗歌
+由此诞生。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>http://iiley.com/post/second/</link>
+      <pubDate>Sun, 31 Jul 2016 02:25:45 +0800</pubDate>
+      
+      <guid>http://iiley.com/post/second/</guid>
+      <description>&lt;p&gt;第二篇文章！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://iiley.com/about/</link>
+      <pubDate>Sun, 31 Jul 2016 02:24:31 +0800</pubDate>
+      
+      <guid>http://iiley.com/about/</guid>
+      <description>&lt;p&gt;This is all about iiley.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://iiley.com/post/first/</link>
+      <pubDate>Sun, 31 Jul 2016 02:24:02 +0800</pubDate>
+      
+      <guid>http://iiley.com/post/first/</guid>
+      <description>&lt;p&gt;第一篇文章。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>http://iiley.com/post/welcome/</link>
+      <pubDate>Sun, 31 Jul 2016 02:17:17 +0800</pubDate>
+      
+      <guid>http://iiley.com/post/welcome/</guid>
+      <description>&lt;p&gt;这是使用Hugo创建的站点中的第一篇文章。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
